@@ -1,0 +1,18 @@
+# Machine Learning Projects
+
+This repository contains my Machine Learning projects. These projects focus on both supervised and unsupervised learning algorithms, as well as deep learning models. Feel free to explore, contribute, or use any of these projects!
+
+---
+
+## Projects
+
+### 1. **Supervised Learning**
+   - **Linear Regression**
+   - **Logistic Regression**
+   - **Decision Trees**
+   - **Random Forests**
+   - **K-Nearest Neighbors (KNN)**
+
+### 2. **Unsupervised Learning**
+   - **K-Means Clustering**
+   - **Principal Component Analysis (PCA)**
